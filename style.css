@@ -8,3 +8,38 @@ body {
       border-width: 5px;
       
     }
+h1 {
+
+  color: darkviolet;
+
+}
+
+h2 {
+
+  color: purple;
+
+}
+
+p {
+
+  color: darkslateblue;
+
+}
+
+li {
+
+  color: darkslateblue;
+
+}
+
+td {
+
+  color: darkslategray;
+
+}
+
+th {
+
+  color: darkslateblue;
+
+}
